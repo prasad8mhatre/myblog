@@ -15,12 +15,14 @@ plainwhite:
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   dark_mode: true # set true to add dark mode toggle
+  disqus_shortname: prasad
+  show_excerpts: true
 
   # generate social links in footer
   social_links:
-    twitter: https://twitter.com/P123prasad
-    github:  https://github.com/prasad8mhatre
-    linkedIn: https://www.linkedin.com/in/prasad8mhatre/
+    twitter: P123prasad
+    github: prasad8mhatre
+    linkedIn: in/prasad8mhatre/
     # rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
