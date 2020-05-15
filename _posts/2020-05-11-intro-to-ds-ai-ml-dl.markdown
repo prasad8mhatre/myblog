@@ -26,7 +26,7 @@ credit:  Kirk Borne
 
 
 #### Reference
-- https://stanford.edu/~shervine/teaching/cs-229/
-- https://twitter.com/KirkDBorne
+- [learn](https://stanford.edu/~shervine/teaching/cs-229/)
+- [KirkDBorne](https://twitter.com/KirkDBorne)
 
 

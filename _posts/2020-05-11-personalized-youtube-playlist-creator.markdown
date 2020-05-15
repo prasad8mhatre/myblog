@@ -19,11 +19,11 @@ Automated youtube playlist creation
 - Created a API to create/update those playlist according to your twitter activity 
 
 #### Demo
-- https://www.youtube.com/playlist?list=PLtJLrxooblK_ryxUDILZySFy4mFklN22a
-- https://github.com/prasad8mhatre/IBM-personality-insight-youtube-playlist-creator
+- [Playlist](https://www.youtube.com/playlist?list=PLtJLrxooblK_ryxUDILZySFy4mFklN22a)
+- [Implementation](https://github.com/prasad8mhatre/IBM-personality-insight-youtube-playlist-creator)
 
 #### Reference
-- https://www.ibm.com/watson/services/personality-insights/
-- https://developers.google.com/youtube/v3
--https://github.com/prasad8mhatre/IBM-personality-insight-youtube-playlist-creator
+- [IBM watson](https://www.ibm.com/watson/services/personality-insights/)
+- [Youtube Api](https://developers.google.com/youtube/v3)
+- [Implementation](https://github.com/prasad8mhatre/IBM-personality-insight-youtube-playlist-creator)
 

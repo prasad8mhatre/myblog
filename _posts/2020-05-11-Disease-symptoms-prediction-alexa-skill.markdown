@@ -17,8 +17,9 @@ Person should talk to alexa tell the symptoms and alexa will predict the disease
 - Alexa skill creation
 
 #### Demo
-https://www.youtube.com/watch?v=PIb4fZ_CtkA
+[demo](https://www.youtube.com/watch?v=PIb4fZ_CtkA)
+
 
 
 #### Reference
-https://www.youtube.com/watch?v=PIb4fZ_CtkA
+[demo](https://www.youtube.com/watch?v=PIb4fZ_CtkA)
