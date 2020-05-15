@@ -7,28 +7,23 @@ categories: ML IBM personality-insight python twitter
 Automate youtube playlist creation based on your personal choice by using your twitter data.
 
 #### Problem Statement
-Create 
+Automated youtube playlist creation 
+
 #### Solution
+- Connect to your twitter account to IBM watson personality insight 
+- It returns us the confidence score for the music category from your profile
+- According to scores, we will get music category 
+- We will fetch music videos for those music category
+- And create a playlist of that in your youtube account
+- This automate the playlist creation
+- Created a API to create/update those playlist according to your twitter activity 
+
 #### Demo
+- https://www.youtube.com/playlist?list=PLtJLrxooblK_ryxUDILZySFy4mFklN22a
+- https://github.com/prasad8mhatre/IBM-personality-insight-youtube-playlist-creator
+
 #### Reference
+- https://www.ibm.com/watson/services/personality-insights/
+- https://developers.google.com/youtube/v3
+-https://github.com/prasad8mhatre/IBM-personality-insight-youtube-playlist-creator
 
-```javascript
-const Razorpay = require('razorpay');
-
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
-
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
